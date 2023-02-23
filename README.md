@@ -12,12 +12,11 @@
   <main>
     <section>
       
-## 🎓 📝 Link to my resume [here]([https://www.canva.com/design/DAFa3Mxt-K4/uNGxPcOF0QHG72Fbu2p3UQ/view?utm_content=DAFa3Mxt-K4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://docs.google.com/document/d/1FQPc1cLNUh-jRentfoJW5QGkeEr2fQANoLG4vshthfU/edit?usp=sharing))
-</br>
+
     </section>
      
       <h2> 🎓 📝 Link to my resume English Language<h2/>
-  <a href="[https://docs.google.com/document/d/1FQPc1cLNUh-jRentfoJW5QGkeEr2fQANoLG4vshthfU/edit?usp=sharing](https://docs.google.com/document/d/1tyIDiqO-EllXk9RdLua85ppMAxIrjJNZU1jVL8wC8gY/edit?usp=sharing)" class="btn-theme btn-theme-md btn-default-bg text-uppercase">
+  <a href="https://docs.google.com/document/d/1tyIDiqO-EllXk9RdLua85ppMAxIrjJNZU1jVL8wC8gY/edit?usp=sharing" class="btn-theme btn-theme-md btn-default-bg text-uppercase">
   Download my CV English Language</a>
     </section>
   
