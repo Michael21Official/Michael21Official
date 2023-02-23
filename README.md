@@ -27,6 +27,8 @@
     <section>
       <h2>Contact Information</h2>
       <ul>
+        <li>Address: Juliusza Lea 53, 30-052 Kraków</li>
+        <li>Phone number: (+48) 578 742 682</li>
         <li>Email: michael.2001.official@gmail.com</li>
         <li>Date of birth: 13.11.2001</li>
       </ul>
