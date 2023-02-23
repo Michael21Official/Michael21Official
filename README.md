@@ -13,8 +13,10 @@
     <section>
       
   <h2> 🎓 📝 Link to my resume<h2/>
-  <a href="https://drive.google.com/file/d/1SPAWmM0TMQu50jffMingnloExmQCEcL8/view?usp=sharing" class="btn-theme btn-theme-md btn-default-bg text-uppercase">
-  Download   my CV</a>
+  <a href="[https://drive.google.com/file/d/1SPAWmM0TMQu50jffMingnloExmQCEcL8/view?usp=sharing](https://docs.google.com/document/d/1FQPc1cLNUh-jRentfoJW5QGkeEr2fQANoLG4vshthfU/edit?usp=sharing)" class="btn-theme btn-theme-md btn-default-bg text-uppercase">
+  Download my CV POLAND</a>
+  <a href="[https://drive.google.com/file/d/1SPAWmM0TMQu50jffMingnloExmQCEcL8/view?usp=sharing](https://docs.google.com/document/d/1tyIDiqO-EllXk9RdLua85ppMAxIrjJNZU1jVL8wC8gY/edit?usp=sharing)" class="btn-theme btn-theme-md btn-default-bg text-uppercase">
+  Download my CV ENGLISH</a>
 </br>
     </section>
     <section>
