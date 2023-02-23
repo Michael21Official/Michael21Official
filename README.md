@@ -12,9 +12,8 @@
   <main>
     <section>
       
-  <h2> 📝 Link to my resume Poland Language<h2/>
-    ## 📝 Link to my resume [Download my CV POLAND](https://docs.google.com/document/d/1FQPc1cLNUh-jRentfoJW5QGkeEr2fQANoLG4vshthfU/edit?usp=sharing)
-    </br>
+  ## 🎓 📝 Link to my resume [here]([https://www.canva.com/design/DAFa3Mxt-K4/uNGxPcOF0QHG72Fbu2p3UQ/view?utm_content=DAFa3Mxt-K4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://docs.google.com/document/d/1FQPc1cLNUh-jRentfoJW5QGkeEr2fQANoLG4vshthfU/edit?usp=sharing))
+</br>
     </section>
      
       <h2> 🎓 📝 Link to my resume English Language<h2/>
