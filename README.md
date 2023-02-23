@@ -12,7 +12,7 @@
   <main>
     <section>
       
-  ## 🎓 📝 Link to my resume [here]([https://www.canva.com/design/DAFa3Mxt-K4/uNGxPcOF0QHG72Fbu2p3UQ/view?utm_content=DAFa3Mxt-K4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://docs.google.com/document/d/1FQPc1cLNUh-jRentfoJW5QGkeEr2fQANoLG4vshthfU/edit?usp=sharing))
+## 🎓 📝 Link to my resume [here]([https://www.canva.com/design/DAFa3Mxt-K4/uNGxPcOF0QHG72Fbu2p3UQ/view?utm_content=DAFa3Mxt-K4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://docs.google.com/document/d/1FQPc1cLNUh-jRentfoJW5QGkeEr2fQANoLG4vshthfU/edit?usp=sharing))
 </br>
     </section>
      
