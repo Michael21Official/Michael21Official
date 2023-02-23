@@ -11,6 +11,13 @@
   </header>
   <main>
     <section>
+      
+  <h2> 🎓 📝 Link to my resume<h2/>
+  <a href="https://drive.google.com/file/d/1SPAWmM0TMQu50jffMingnloExmQCEcL8/view?usp=sharing" class="btn-theme btn-theme-md btn-default-bg text-uppercase">
+  Download   my CV</a>
+</br>
+    </section>
+    <section>
       <h2>Contact Information</h2>
       <ul>
         <li>Email: michael.2001.official@gmail.com</li>
