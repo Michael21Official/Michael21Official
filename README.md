@@ -12,10 +12,12 @@
   <main>
     <section>
       
-
-    </section>
+  <h2> 🎓 📝 Link to my resume Poland Language<h2/>
+  <a href="[https://docs.google.com/document/d/1tyIDiqO-EllXk9RdLua85ppMAxIrjJNZU1jVL8wC8gY/edit?usp=sharing](https://docs.google.com/document/d/1FQPc1cLNUh-jRentfoJW5QGkeEr2fQANoLG4vshthfU/edit?usp=sharing)" class="btn-theme btn-theme-md btn-default-bg text-uppercase">
+  Download my CV Poland Language</a>
+   
      
-      <h2> 🎓 📝 Link to my resume English Language<h2/>
+  <h2> 🎓 📝 Link to my resume English Language<h2/>
   <a href="https://docs.google.com/document/d/1tyIDiqO-EllXk9RdLua85ppMAxIrjJNZU1jVL8wC8gY/edit?usp=sharing" class="btn-theme btn-theme-md btn-default-bg text-uppercase">
   Download my CV English Language</a>
     </section>
