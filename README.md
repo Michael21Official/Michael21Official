@@ -1,5 +1,7 @@
 # Michał Matsalak
 
+**Software Engineer at Sabre Poland | Student at University of the National Education Commission**
+
 **Address:** Juliusza Lea 53, 30-052 Kraków  
 **Phone number:** (+48) 578 742 682  
 **Email:** [matsalakmichal@gmail.com](mailto:matsalakmichal@gmail.com)  
@@ -7,7 +9,7 @@
 
 ## Summary
 
-I am a student at the National Education Commission University in Kraków, majoring in Technical and IT Education. Passionate about technology, I am pursuing a career as a full stack developer. I am eager to tackle new challenges and continuously expand my skills in both front-end and back-end development.
+I am a Software Engineer at Sabre Poland and a student at the University of the National Education Commission in Kraków, majoring in Technical and IT Education. My passion for technology and my drive to continuously expand my skills in both front-end and back-end development have led me to pursue a career as a full stack developer. I embrace new challenges and strive for excellence in every project I undertake.
 
 ## Experience
 
@@ -50,16 +52,32 @@ Field of Study: Applied Computer Science
 
 ## Skills
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+### Front-End
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Back-End
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![RESTful API](https://img.shields.io/badge/RESTful%20API-25D366?style=for-the-badge&logo=rest&logoColor=white)
+
+### Tools & Technologies
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/React%20Testing%20Library-FF7F50?style=for-the-badge&logo=testing-library&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Additional Skills
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft-active-directory&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Shoper](https://img.shields.io/badge/Shoper-000000?style=for-the-badge&logo=shopify&logoColor=white)
 
 ## Languages
 
@@ -78,6 +96,9 @@ Field of Study: Applied Computer Science
 - [My CV PL (Polish)](https://docs.google.com/document/d/16oTEUSwQh29ZVxFjT-9pltRWmo1XrJ7m/edit?usp=sharing&ouid=105718250807664062014&rtpof=true&sd=true)
 - [My CV EN (English)](https://docs.google.com/document/d/1-5vOvb7sHmVqcopIgygMq0KubF8zZD7v/edit?usp=sharing&ouid=105718250807664062014&rtpof=true&sd=true)
 
+## GitHub Stats
+
+![Michał's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
