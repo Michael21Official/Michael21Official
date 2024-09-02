@@ -88,18 +88,10 @@ Field of Study: Applied Computer Science
 
 ## Social Links
 
-- [GitHub - Portfolio](https://github.com/yourusername)
-- [LinkedIn - Profile](https://linkedin.com/in/yourusername)
+- [GitHub - Portfolio](https://github.com/Michael21Official)
+- [LinkedIn - Profile](https://www.linkedin.com/in/micha%C5%82-matsalak-25123a22b/)
 
 ## Links to My Resume
 
 - [My CV PL (Polish)](https://docs.google.com/document/d/16oTEUSwQh29ZVxFjT-9pltRWmo1XrJ7m/edit?usp=sharing&ouid=105718250807664062014&rtpof=true&sd=true)
 - [My CV EN (English)](https://docs.google.com/document/d/1-5vOvb7sHmVqcopIgygMq0KubF8zZD7v/edit?usp=sharing&ouid=105718250807664062014&rtpof=true&sd=true)
-
-## GitHub Stats
-
-![Michał's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
----
-
-> I consent to the processing of my personal data for the purposes necessary to carry out the recruitment process in accordance with the Regulation (EU) 2016/679 of the European Parliament and of the Council of April 27, 2016, on the protection of individuals with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (GDPR).
