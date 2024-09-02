@@ -37,12 +37,12 @@ I am a Software Engineer at Sabre Poland and a student at the University of the 
 ### National Education Commission University in Kraków, Kraków – Master's Degree
 *2024 - 2025*  
 Field of Study: Technical and IT Education  
-![Uken Logo](https://th.bing.com/th/id/OIP.yKbH_sAfT7sv3P0rUi38gQHaGp?rs=1&pid=ImgDetMain)
+![Uken Logo](https://www.uken.krakow.pl/images/grafiki/grafiki-strony/logo/uken_logo_main_.png)
 
 ### Cracow University of Technology, Kraków – Bachelor’s Degree in Engineering
 *2020 - 2024*  
 Field of Study: Applied Computer Science  
-![PK Logo](https://th.bing.com/th/id/OIP.3UI2ywG9ETJ3foxRS-NJdgHaHv?rs=1&pid=ImgDetMain)
+![PK Logo](https://www.pk.edu.pl//templates/pk18-tpl/images/PK/PK.png)
 
 ## Certificates
 
