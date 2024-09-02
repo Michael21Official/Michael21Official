@@ -76,3 +76,19 @@ Field of Study: Applied Computer Science
 ---
 
 > I consent to the processing of my personal data for the purposes necessary to carry out the recruitment process in accordance with the Regulation (EU) 2016/679 of the European Parliament and of the Council of April 27, 2016, on the protection of individuals with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (GDPR).
+
+## GitHub Stats & Skills
+
+![Michał's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs&hide_border=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&hide_title=true&layout=compact&theme=radical)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=radical)
+
+![Profile Visits](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+
+## Animated GIFs
+
+![React Animation](https://media.giphy.com/media/2xscViw0Wtb4/giphy.gif)
+![Spring Boot Animation](https://media.giphy.com/media/xUOxeD6grBqqj6cA8Y/giphy.gif)
+
