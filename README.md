@@ -48,13 +48,16 @@ Field of Study: Applied Computer Science
 
 ## Skills
 
-- **Programming Languages:** Java, TypeScript, JavaScript
-- **Front-End:** React.js, HTML5, CSS, LESS
-- **Back-End:** Spring Boot, RESTful API
-- **Databases:** MySQL
-- **Testing:** React Testing Library, JUnit
-- **Tools:** Git, Docker
-- **Others:** Node.js, GraphQL, Python, AWS, CI/CD
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Languages
 
@@ -73,22 +76,10 @@ Field of Study: Applied Computer Science
 - [My CV PL (Polish)](https://docs.google.com/document/d/16oTEUSwQh29ZVxFjT-9pltRWmo1XrJ7m/edit?usp=sharing&ouid=105718250807664062014&rtpof=true&sd=true)
 - [My CV EN (English)](https://docs.google.com/document/d/1-5vOvb7sHmVqcopIgygMq0KubF8zZD7v/edit?usp=sharing&ouid=105718250807664062014&rtpof=true&sd=true)
 
+## GitHub Stats
+
+![Michał's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
 ---
 
 > I consent to the processing of my personal data for the purposes necessary to carry out the recruitment process in accordance with the Regulation (EU) 2016/679 of the European Parliament and of the Council of April 27, 2016, on the protection of individuals with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (GDPR).
-
-## GitHub Stats & Skills
-
-![Michał's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs&hide_border=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&hide_title=true&layout=compact&theme=radical)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=radical)
-
-![Profile Visits](https://komarev.com/ghpvc/?username=yourusername&color=blue)
-
-## Animated GIFs
-
-![React Animation](https://media.giphy.com/media/2xscViw0Wtb4/giphy.gif)
-![Spring Boot Animation](https://media.giphy.com/media/xUOxeD6grBqqj6cA8Y/giphy.gif)
-
