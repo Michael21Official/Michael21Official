@@ -32,13 +32,15 @@ I am a student at the National Education Commission University in Kraków, major
 
 ## Education
 
-### ![Cracow University of Technology](https://th.bing.com/th/id/OIP.3UI2ywG9ETJ3foxRS-NJdgHaHv?rs=1&pid=ImgDetMain) Cracow University of Technology, Kraków – Bachelor’s Degree in Engineering
-*2020 - 2024*  
-Field of Study: Applied Computer Science
-
-### ![National Education Commission University](https://th.bing.com/th/id/OIP.yKbH_sAfT7sv3P0rUi38gQHaGp?rs=1&pid=ImgDetMain) National Education Commission University in Kraków – Master's Degree
+### National Education Commission University in Kraków, Kraków – Master's Degree
 *2024 - 2025*  
-Field of Study: Technical and IT Education
+Field of Study: Technical and IT Education  
+![Uken Logo](https://th.bing.com/th/id/OIP.yKbH_sAfT7sv3P0rUi38gQHaGp?rs=1&pid=ImgDetMain)
+
+### Cracow University of Technology, Kraków – Bachelor’s Degree in Engineering
+*2020 - 2024*  
+Field of Study: Applied Computer Science  
+![PK Logo](https://th.bing.com/th/id/OIP.3UI2ywG9ETJ3foxRS-NJdgHaHv?rs=1&pid=ImgDetMain)
 
 ## Certificates
 
@@ -76,9 +78,6 @@ Field of Study: Technical and IT Education
 - [My CV PL (Polish)](https://docs.google.com/document/d/16oTEUSwQh29ZVxFjT-9pltRWmo1XrJ7m/edit?usp=sharing&ouid=105718250807664062014&rtpof=true&sd=true)
 - [My CV EN (English)](https://docs.google.com/document/d/1-5vOvb7sHmVqcopIgygMq0KubF8zZD7v/edit?usp=sharing&ouid=105718250807664062014&rtpof=true&sd=true)
 
-## GitHub Stats
-
-![Michał's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
