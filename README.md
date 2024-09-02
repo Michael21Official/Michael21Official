@@ -32,13 +32,13 @@ I am a student at the National Education Commission University in Kraków, major
 
 ## Education
 
-### National Education Commission University in Kraków, Kraków – Master's Degree
-*2024 - 2025*  
-Field of Study: Technical and IT Education
-
-### Cracow University of Technology, Kraków – Bachelor’s Degree in Engineering
+### ![Cracow University of Technology](https://th.bing.com/th/id/OIP.3UI2ywG9ETJ3foxRS-NJdgHaHv?rs=1&pid=ImgDetMain) Cracow University of Technology, Kraków – Bachelor’s Degree in Engineering
 *2020 - 2024*  
 Field of Study: Applied Computer Science
+
+### ![National Education Commission University](https://th.bing.com/th/id/OIP.yKbH_sAfT7sv3P0rUi38gQHaGp?rs=1&pid=ImgDetMain) National Education Commission University in Kraków – Master's Degree
+*2024 - 2025*  
+Field of Study: Technical and IT Education
 
 ## Certificates
 
