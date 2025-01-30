@@ -5,7 +5,6 @@
 **Address:** Juliusza Lea 53, 30-052 Kraków  
 **Phone number:** (+48) 578 742 682  
 **Email:** [matsalakmichal@gmail.com](mailto:matsalakmichal@gmail.com)  
-**Date of Birth:** 13.11.2001  
 
 ## Summary
 
