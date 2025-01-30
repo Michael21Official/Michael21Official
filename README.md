@@ -2,7 +2,7 @@
 
 **Software Engineer at Sabre Poland | Student at University of the National Education Commission**
 
-**Address:** Juliusza Lea 53, 30-052 Kraków  
+**Address:** Kraków  
 **Phone number:** (+48) 578 742 682  
 **Email:** [matsalakmichal@gmail.com](mailto:matsalakmichal@gmail.com)  
 
