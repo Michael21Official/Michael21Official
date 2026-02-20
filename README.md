@@ -46,12 +46,12 @@ Software Engineer with 2+ years of professional experience in full-stack develop
 ### University of the National Education Commission, Kraków – Master's Degree
 *2024 - 2025*
 - Field of Study: Technical and IT Education
-- ![UKEN Logo](https://www.uken.krakow.pl/images/grafiki/grafiki-strony/logo/uken_logo_main_.png)
+- ![UKEN Logo](https://www.uken.krakow.pl/uniwersytet/identyfikacja-wizualna)
 
 ### Cracow University of Technology, Kraków – Bachelor's Degree in Engineering
 *2020 - 2024*
 - Field of Study: Applied Computer Science
-- ![PK Logo](https://www.pk.edu.pl//templates/pk18-tpl/images/PK/PK.png)
+- ![PK Logo](https://www.pk.edu.pl/index.php?option=com_content&view=article&id=3428&Itemid=1052&lang=pl)
 
 ## 📜 Certificates
 
@@ -120,23 +120,12 @@ Personal portfolio built with React, TypeScript, MUI, and Vite. Features include
 
 **Technologies:** React, TypeScript, MUI, Vite, LESS, EmailJS, Google Analytics
 
-## 📈 GitHub Stats
-
-![Michał's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael21Official&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Michael21Official&layout=compact&theme=radical)
-
 ## 📫 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Michael21Official)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micha%C5%82-matsalak-25123a22b/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1976d2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio.matsalak.pl)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matsalakmichal@gmail.com)
-
-## 📄 Resume
-
-- [📥 Download CV (Polish)](https://docs.google.com/document/d/16oTEUSwQh29ZVxFjT-9pltRWmo1XrJ7m/edit?usp=sharing&ouid=105718250807664062014&rtpof=true&sd=true)
-- [📥 Download CV (English)](https://docs.google.com/document/d/1-5vOvb7sHmVqcopIgygMq0KubF8zZD7v/edit?usp=sharing&ouid=105718250807664062014&rtpof=true&sd=true)
 
 ---
 
