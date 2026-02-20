@@ -46,12 +46,10 @@ Software Engineer with 2+ years of professional experience in full-stack develop
 ### University of the National Education Commission, Kraków – Master's Degree
 *2024 - 2025*
 - Field of Study: Technical and IT Education
-- ![UKEN Logo](https://www.uken.krakow.pl/images/dokumenty/identyfikacja-wizualna/logo/logo-wersja-pionowa-angielska/UKEN-logo-kolor-wersja-pionowa-angielska-rgb.png)
 
 ### Cracow University of Technology, Kraków – Bachelor's Degree in Engineering
 *2020 - 2024*
 - Field of Study: Applied Computer Science
-- ![PK Logo](https://www.pk.edu.pl//templates/pk18-tpl/images/PK/PK.png)
 
 ## 📜 Certificates
 
