@@ -4,7 +4,7 @@
 📍 Kraków, Poland  
 📧 [matsalakmichal@gmail.com](mailto:matsalakmichal@gmail.com)  
 📱 (+48) 578 742 682  
-🌐 [portfolio.matsalak.pl](https://portfolio.matsalak.pl)
+🌐 [portfolio.matsalak.pl](https://michael21official.github.io/moj-projekt-portfolio/)
 
 ## 👨‍💻 About Me
 
