@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-Software Engineer with 2+ years of professional experience in full-stack development. Core competencies include building front-end applications with **TypeScript** and **React**, and developing robust back-end services using **Java** and **Spring Boot**. Currently contributing to high-impact projects in the travel technology sector at **Sabre Poland**.
+Software Engineer with 3 years of professional experience in full-stack development. Core competencies include building front-end applications with **TypeScript** and **React**, and developing robust back-end services using **Java** and **Spring Boot**. Currently contributing to high-impact projects in the travel technology sector at **Sabre Poland**.
 
 ### 🎯 Advantages
 - Proven ability to develop and maintain mission-critical software in a global, agile environment
