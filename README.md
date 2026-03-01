@@ -20,6 +20,23 @@ Software Engineer with 3 years of professional experience in full-stack developm
 - Eager to deepen expertise in modern architecture patterns
 - Aiming to take an active role in the technical direction of projects
 
+## 📊 GitHub Stats
+
+### Najczęściej używane języki
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael21Official&layout=compact&theme=light&hide_border=true&langs_count=8&hide=html,css" alt="Top Languages"/>
+</div>
+
+### Ogólne statystyki
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Michael21Official&show_icons=true&theme=light&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+</div>
+
+### 🔥 Streak stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Michael21Official&theme=light&hide_border=true" alt="GitHub Streak"/>
+</div>
+
 ## 💼 Experience
 
 ### Sabre Poland, Kraków – Software Developer I
@@ -64,7 +81,6 @@ Software Engineer with 3 years of professional experience in full-stack developm
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![React Testing Library](https://img.shields.io/badge/React%20Testing%20Library-FF7F50?style=for-the-badge&logo=testing-library&logoColor=white)
 
@@ -129,3 +145,5 @@ Personal portfolio built with React, TypeScript, MUI, and Vite. Features include
 ---
 
 ⭐️ From [Michael21Official](https://github.com/Michael21Official)
+
+*Last updated: March 2026*
