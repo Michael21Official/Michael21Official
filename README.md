@@ -20,23 +20,6 @@ Software Engineer with 3 years of professional experience in full-stack developm
 - Eager to deepen expertise in modern architecture patterns
 - Aiming to take an active role in the technical direction of projects
 
-## 📊 GitHub Stats
-
-### Najczęściej używane języki
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael21Official&layout=compact&theme=light&hide_border=true&langs_count=8&hide=html,css" alt="Top Languages"/>
-</div>
-
-### Ogólne statystyki
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Michael21Official&show_icons=true&theme=light&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-</div>
-
-### 🔥 Streak stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Michael21Official&theme=light&hide_border=true" alt="GitHub Streak"/>
-</div>
-
 ## 💼 Experience
 
 ### Sabre Poland, Kraków – Software Developer I
