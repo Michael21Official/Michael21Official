@@ -102,9 +102,9 @@ Software Engineer with 3 years of professional experience in full-stack developm
 | Language | Level |
 |----------|-------|
 | 🇵🇱 Polish | Native (C2) |
+| 🇬🇧 English | B2 |
 | 🇺🇦 Ukrainian | Native (C2) |
 | 🇷🇺 Russian | C1 |
-| 🇬🇧 English | B2 |
 
 ## 📊 Featured Projects
 
